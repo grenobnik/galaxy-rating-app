@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-NG Conf 2019, The Control Value Accessor by Jennifer Wadella, https://youtu.be/kVbLSN0AW-Y
+NG Conf 2019, The Control Value Accessor by Jennifer Wadella, [youtub e](https://youtu.be/kVbLSN0AW-Y), [slides]( https://tehfedaykin.github.io/WormholesandCVAs/#/title)
 
 ## Development server
 
